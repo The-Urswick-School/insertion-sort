@@ -10,3 +10,4 @@ The secondary objective is to develop understanding of using the Java programmin
 - Convert the public variable in bubble and insertion sort classes to private and use "getters" and "setters".
 - Once a set of inputs has been entered and sorted let the program run again if a user wants it to.
 - Add another private variable to the insertion and bubble classes that keeps the sorted and unsorted list of each different list entered accessible.
+- Sort lists of integers
